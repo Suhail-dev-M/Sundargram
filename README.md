@@ -73,8 +73,8 @@ A pixel-faithful, production-grade social photo & video sharing web application 
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/your-username/sundargram.git
-cd sundargram
+git clone https://github.com/Suhail-dev-M/Sundargram.git
+cd Sundargram
 ```
 
 ### 3. Install Dependencies
